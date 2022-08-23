@@ -14,8 +14,8 @@ dependencies:
   dotenv: ^4.0.1
   envify:
     git:
-      url: https://github.com/techouse/envify.git
-      ref: main
+      url: https://github.com/lepsch/envify.git
+      ref: 5d739438ddedf1c4a5b5aaefbeaf8cd40a1b1f61
       path: envify
   path: ^1.8.1
   source_gen: ^1.2.2
